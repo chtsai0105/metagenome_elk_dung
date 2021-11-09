@@ -1,0 +1,5 @@
+Loading autometa/1.0.2
+  Loading requirement: htslib/1.6 samtools/1.6 diamond/0.9.34 hmmer/3
+    bowtie2/2.4.2-SRA bedtools/2.28.0 prodigal/2.6.2
+../results/spades/split_input/10740.6.176469.AGTTCC.anqdpht_1.fastq
+Error! Cannot find the read file: ../results/spades/split_input/10740.6.176469.AGTTCC.anqdpht_1.fastq
